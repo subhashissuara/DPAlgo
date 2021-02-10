@@ -7,7 +7,6 @@
 #   S - Value of k (Separating Point) for which C element was obtained
 # ---------------------------------------------------------------------
 
-from pprint import pprint
 import sys
 
 def matrixChainOrder(P):
